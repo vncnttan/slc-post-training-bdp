@@ -1,0 +1,5 @@
+app.csv
+AppID,AppName,CategoryID,Rating,AppSize,AppType,Price,ReleaseDate,Version
+
+category.csv
+CategoryID,CategoryName

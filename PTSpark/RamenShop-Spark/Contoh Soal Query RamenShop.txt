@@ -1,0 +1,11 @@
+1. Show Top 4 Customer with the most transaction that has indonesian phone number using pie chart.
+
+2. Show The monthly income of RamenShop data that above average of all monthly income using line chart.
+
+3. Show The frequency of customer Spending category in RamenShop. Each customer Spending Category is determined by below condition:
+Total Spend	 	Membership
+< 100K			Low
+100K - 1M		Mid
+> 1M			Mega
+
+Show it using bar chart.

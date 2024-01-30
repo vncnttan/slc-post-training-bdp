@@ -1,0 +1,3 @@
+{"_id":{"$oid":"659edb4f3f9441df1ae80bb5"},"Name":"Budi","Gender":"Male","Email":"Budi@email.com"}
+{"_id":{"$oid":"659edb4f3f9441df1ae80bb6"},"Name":"Jacob","Gender":"Male","Email":"Jacob@email.com"}
+{"_id":{"$oid":"659edb503f9441df1ae80bb7"},"Name":"Susi","Gender":"Female","Email":"Susi@email.com"}
